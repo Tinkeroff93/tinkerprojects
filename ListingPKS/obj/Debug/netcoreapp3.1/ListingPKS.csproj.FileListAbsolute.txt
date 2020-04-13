@@ -1,0 +1,12 @@
+C:\Users\danya\source\repos\ListingPKS\bin\Debug\netcoreapp3.1\ListingPKS.exe
+C:\Users\danya\source\repos\ListingPKS\bin\Debug\netcoreapp3.1\ListingPKS.deps.json
+C:\Users\danya\source\repos\ListingPKS\bin\Debug\netcoreapp3.1\ListingPKS.runtimeconfig.json
+C:\Users\danya\source\repos\ListingPKS\bin\Debug\netcoreapp3.1\ListingPKS.runtimeconfig.dev.json
+C:\Users\danya\source\repos\ListingPKS\bin\Debug\netcoreapp3.1\ListingPKS.dll
+C:\Users\danya\source\repos\ListingPKS\bin\Debug\netcoreapp3.1\ListingPKS.pdb
+C:\Users\danya\source\repos\ListingPKS\obj\Debug\netcoreapp3.1\ListingPKS.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\ListingPKS\obj\Debug\netcoreapp3.1\ListingPKS.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\ListingPKS\obj\Debug\netcoreapp3.1\ListingPKS.AssemblyInfo.cs
+C:\Users\danya\source\repos\ListingPKS\obj\Debug\netcoreapp3.1\ListingPKS.dll
+C:\Users\danya\source\repos\ListingPKS\obj\Debug\netcoreapp3.1\ListingPKS.pdb
+C:\Users\danya\source\repos\ListingPKS\obj\Debug\netcoreapp3.1\ListingPKS.genruntimeconfig.cache
